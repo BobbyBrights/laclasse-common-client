@@ -3,6 +3,6 @@ Comment ça marche ?
 
 Ajoutez
 <pre>
-	"charte-graphique-laclasse-com": "https://github.com/laclasse-com/charte-graphique-laclasse-com.git#latest"
+	"laclasse-common-client": "https://github.com/laclasse-com/laclasse-common-client.git#latest"
 </pre>
 dans le bower.json du projet
