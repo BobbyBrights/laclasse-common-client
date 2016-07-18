@@ -1,7 +1,7 @@
 {
     "name": "laclasse.com",
     "short_name": "laclasse.com",
-    "start_url": "/portail",
+    "start_url": "/",
     "display": "minimal-ui",
     "orientation": "landscape",
     "background_color": "#1aaacc",
